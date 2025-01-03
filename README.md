@@ -4,4 +4,5 @@
 
 
 [![what i code in ig](https://github-readme-stats.vercel.app/api/top-langs/?username=xvalegendary&theme=dracula&show_icons=true)](https://https://github.com/xvalegendary/xvalegendary)
+
 [![lhaaspers's github stats](https://github-readme-stats.vercel.app/api?username=xvalegendary&show_icons=true&theme=dracula)](https://https://github.com/xvalegendary/xvalegendary)
