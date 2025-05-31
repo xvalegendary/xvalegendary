@@ -19,7 +19,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a ??????? Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - 🔭 I'm a student working on software development, focusing on both frontend and backend for web applications.
 - 🌱 I'm exploring technical content writing.
