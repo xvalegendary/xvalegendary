@@ -5,7 +5,7 @@
 github.com/xvalegendary    
 tg   $  @awptop1btwbutimnotavitma
 srv  $  t.me/aesterialproject
-web  $  coming soon
+web  $  https://myportfolio-ashen-five.vercel.app/
 ```
 &zwnj; 
 &zwnj; 
