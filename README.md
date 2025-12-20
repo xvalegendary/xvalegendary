@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/xvalegendary    
-tg   $  @memesenseonmain
+tg   $  @treuoiafjhdkxvncmipoqwkslkxcvvol
 srv  $  t.me/xxx???
 web  $  https://myportfolio-ashen-five.vercel.app/
 ```
