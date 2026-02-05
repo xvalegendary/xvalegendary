@@ -5,7 +5,7 @@
 github.com/xvalegendary    
 tg   $  @treuoiafjhdkxvncmipoqwkslkxcvvol
 srv  $  t.me/xxx???
-web  $  https://myportfolio-ashen-five.vercel.app/
+web  $  https://xxx??? coming soon
 ```
 &zwnj; 
 &zwnj; 
